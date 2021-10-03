@@ -1,0 +1,97 @@
+.form{
+ max-width:50%;
+  margin-left:auto;
+  margin-right:auto; 
+ 
+}
+h2{
+  background: #222 ;
+  color:white;
+  font-family: 'Abril Fatface';
+  position:absolute;
+  left:5px;
+  width:30%;
+  height:150px
+}
+.q{
+  top:350px
+}
+
+    
+  
+  
+
+img{
+max-width: 50%; 
+height:200px;
+margin-top:0;
+}
+.hi{
+  position:fixed;
+  position:absolute;
+  top:230px;
+  left:100px; 
+ font-family: 'Abril Fatface';
+  color:#222;
+}
+.hii{
+  position:absolute;
+  top:250px;
+  left:100px; 
+}
+.a{ 
+  height:0px;
+}
+h1,h6{
+  font-family: 'Abril Fatface';
+  color:#222;
+}
+p,ul,h3,h4,h5{
+font-family: 'Josefin Sans';
+  color:#222;
+  
+}
+h2::before {
+  content: "\201C";
+  font-size:70px;
+  position:relative;
+  bottom:10px;
+  right:0px;}
+h5{
+  margin-top:0px; 
+}
+h4{
+  margin-bottom:5px;
+}
+.o{
+  border-top:3px solid black;
+  padding-top:30px;
+}
+.n{
+ max- width:100%;
+  background:black;
+  height:30px;
+  margin-bottom:0px;
+  margin-top:0;
+  display:flex;
+  justify-content: space-around;
+  font-family: 'Josefin Sans';
+  color:white;
+  padding:40px;
+}
+main{
+ display:flex; 
+}
+
+  
+    
+
+
+ 
+
+  
+
+
+
+
+
